@@ -16,7 +16,11 @@ The tests will always use some integral number, so don't worry about that in dyn
 Examples
 
 isSquare(-1) // => false
+
 isSquare( 3) // => false
+
 isSquare( 4) // => true
+
 isSquare(25) // => true
+
 isSquare(26) // => false
